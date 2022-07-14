@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ENCODEPASSWORD",
+  "name": "You can encode your password in this website with a secret key. The password will be encoded in  in sha256!",
   "icons": [
     {
       "src": "favicon.ico",
