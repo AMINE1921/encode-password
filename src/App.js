@@ -115,6 +115,7 @@ function App() {
               onClick={() => {
                 passwordEncoded && copyToClipBoard();
               }}
+              placeholder="Password encoded"
               readOnly
             />
             {/* <label>Password encoded</label> */}

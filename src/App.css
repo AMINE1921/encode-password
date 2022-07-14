@@ -194,8 +194,8 @@ button {
 
 .passwordEncoded {
   cursor: default;
-  color: #10ac84 !important;
-  text-shadow: 0 0 3px white;
+  color: green !important;
+  /* text-shadow: 0 0 3px white; */
 }
 
 .submitDiv {
