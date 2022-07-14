@@ -115,8 +115,9 @@ function App() {
               onClick={() => {
                 passwordEncoded && copyToClipBoard();
               }}
+              readOnly
             />
-            <label>Password encoded</label>
+            {/* <label>Password encoded</label> */}
           </div>
           <div className="submitDiv">
             <button className="buttonSubmit" type="submit">
