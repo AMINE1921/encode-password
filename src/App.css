@@ -203,3 +203,19 @@ button {
   justify-content: center;
   width: 100%;
 }
+footer {
+  font-family: "Lucida Console", Courier, monospace;
+  position: absolute;
+  bottom: 1%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 212px;
+}
+.openSource {
+  color: white !important;
+  font-size: small;
+}
+
+a {
+  color: white !important;
+}

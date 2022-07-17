@@ -131,6 +131,19 @@ function App() {
           </div>
         </form>
       </div>
+
+      <footer>
+        <span className="openSource">
+          This project is{" "}
+          <a
+            href="https://github.com/AMINE1921/encode-password"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open source
+          </a>
+        </span>
+      </footer>
       <ToastContainer />
     </div>
   );

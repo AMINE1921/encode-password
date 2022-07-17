@@ -1,6 +1,7 @@
 {
   "short_name": "ENCODEPASSWORD",
   "name": "Encode password",
+  "description": "You can encode your password in this website with a secret key. The password will be encoded in  in sha256!",
   "icons": [
     {
       "src": "favicon.ico",
