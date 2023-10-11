@@ -14,11 +14,8 @@
     <a href="https://fr.reactjs.org">
     React JS </a> .
     <br />
-    <a href="https://encodepassword.com"><strong>Explore the website »</strong></a>
-    <br />
   </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/mohamed-lamine-oubaya-124326194"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
     <a href="https://github.com/AMINE1921"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"> </a>
     <a href="http://discordapp.com/channels/@AMINE#5328"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"> </a>
   </p>
@@ -95,4 +92,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 <br />
 
-© 2020 by Mohamed Lamine OUBAYA
+© 2022 by Mohamed Lamine OUBAYA
