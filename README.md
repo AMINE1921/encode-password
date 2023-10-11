@@ -92,4 +92,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 <br />
 
-© 2022 by Mohamed Lamine OUBAYA
+© 2022 AMINE1921
